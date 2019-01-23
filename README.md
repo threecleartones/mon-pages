@@ -16,13 +16,11 @@ mon() {
 }
 ```
 
-- Source the file, ex:
+- Source the file (or restart your terminal):
 
 ```
 . ~/.zshrc
 ```
-
-(or restart your terminal)
 
 ## Usage
 
