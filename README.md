@@ -28,7 +28,9 @@ where `file` is the name of a file inside the `mon` directory. When you're done 
 
 Ex.
 
-` mon chmod`
+```
+mon chmod
+```
 
 ## 'mon' files
 
