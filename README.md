@@ -26,6 +26,9 @@ mon file
 
 where `file` is the name of a file inside the `mon` directory. When you're done reading, hit `q` to quit.
 
+Ex.
+` mon chmod`
+
 ## 'mon' files
 
 The files inside the `mon` directory are just plain text files, written in markdown format, and named logically so that they're easy to remember without having to `ls` the directory every time. The ones currently in this repo are the ones I've created, and you are encouraged to edit/rename/remove/add/hack them however you see fit. The point is for them to serve as useful references for __you__, and everyone is different, so do whatever works for you. This is essentially a handy way to quickly reference notes you've written for yourself.
