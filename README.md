@@ -27,6 +27,7 @@ mon file
 where `file` is the name of a file inside the `mon` directory. When you're done reading, hit `q` to quit.
 
 Ex.
+
 ` mon chmod`
 
 ## 'mon' files
