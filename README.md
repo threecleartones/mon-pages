@@ -6,7 +6,7 @@ My lazy implementation of personal `man`-ual pages (hence the French pronoun. Or
 
 - Clone the repo.
 - Copy the `mon` directory to your home directory.
-- Add the following function to your `.zshrc` or `.bashrc` file:
+- Add the following function to your `.zshrc` or `.bashrc` file (or corresponding `_profile`):
 
 ```
 # MON PAGES
@@ -16,9 +16,17 @@ mon() {
 }
 ```
 
+- Source the file, ex:
+
+```
+. ~/.zshrc
+```
+
+(or restart your terminal)
+
 ## Usage
 
-Type the following in your terminal:
+Type the following in your terminal from anywhere:
 
 ```
 mon file
