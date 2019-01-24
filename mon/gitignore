@@ -3,15 +3,13 @@ GITIGNORE
 
 ## My editors
 
-```
 *.code-workspace
 *.*~
-```
 
 ## To track changes to .gitignore
 
-```
 git rm -r --cached .
 git add .
 git commit -m "fixed untracked files"
-```
+
+

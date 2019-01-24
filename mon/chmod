@@ -10,12 +10,10 @@ CHMOD reference
 1	--x	001
 0	---	000
 
-Ex.
-```
+ex.
 chmod 666 file.name
-```
 
 results in:
-```
 -rw-rw-rw  file.name
-```
+
+
