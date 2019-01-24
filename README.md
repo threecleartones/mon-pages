@@ -1,6 +1,6 @@
 # "mon" pages
 
-My lazy implementation of personal `man`-ual pages (hence the French pronoun. Or a kickass Rasta command, your choice). I've created my own `man` pages before, and [it's not that hard](https://www.cyberciti.biz/faq/linux-unix-creating-a-manpage/), but this is easier (for me, anyway). I use them in conjunction with the actual `man` pages so I can get both the official help for a command as well as the plain language idiot-proof version that I've written myself, for myself.
+NOT actual `man`-ual pages - this is my lazy implementation of personal `man` pages (hence the French pronoun. or a kickass Rasta command, your choice). I've created my own `man` pages before, and [it's not that hard](https://www.cyberciti.biz/faq/linux-unix-creating-a-manpage/), but this is easier (for me, anyway). I use them in conjunction with the actual `man` pages so I can get both the official help for a command as well as the plain language idiot-proof version that I've written myself, for myself.
 
 ## Recommended install
 
