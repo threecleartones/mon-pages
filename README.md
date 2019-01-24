@@ -6,7 +6,7 @@ My lazy implementation of personal `man`-ual pages (hence the French pronoun. Or
 
 1. Clone the repo.
 1. Copy the `mon` directory to your home directory.
-1. Add the following function to your `.zshrc` or `.bashrc` file (or corresponding `_profile`):
+1. Add the following function to your `.zshrc`\ `.bashrc` file (or corresponding `profile`):
 
 ```
 # MON PAGES
