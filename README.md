@@ -50,4 +50,4 @@ Just reverse the directions above - remove the `mon` directory from your home di
 
 ## Next steps
 
-I'm working on a way to add tab completion - it looks somewhat straightforward but it differs depending on your shell. Figuring it out for zsh at the moment.
+I'm working on a way to add tab completion - at the moment you have to type (and therefore know) the exact name of the file. Tab completion looks somewhat straightforward but it differs depending on your shell. Figuring it out for zsh at the moment.
