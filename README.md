@@ -4,9 +4,9 @@ My lazy implementation of personal `man`-ual pages (hence the French pronoun. Or
 
 ## Recommended install
 
-- Clone the repo.
-- Copy the `mon` directory to your home directory.
-- Add the following function to your `.zshrc` or `.bashrc` file (or corresponding `_profile`):
+1. Clone the repo.
+1. Copy the `mon` directory to your home directory.
+1. Add the following function to your `.zshrc` or `.bashrc` file (or corresponding `_profile`):
 
 ```
 # MON PAGES
@@ -16,7 +16,7 @@ mon() {
 }
 ```
 
-- Source the file (or restart your terminal):
+4. Source the file (or restart your terminal):
 
 ```
 . ~/.zshrc
