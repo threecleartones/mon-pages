@@ -38,7 +38,7 @@ Example:
 mon chmod
 ```
 
-which outputs (via `less`):
+outputs (via `less`):
 
 ```
 CHMOD reference
