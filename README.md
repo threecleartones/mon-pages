@@ -38,6 +38,32 @@ Example:
 mon chmod
 ```
 
+which outputs (via `less`):
+
+```
+CHMOD reference
+================
+
+7       rwx     111
+6       rw-     110
+5       r-x     101
+4       r--     100
+3       -wx     011
+2       -w-     010
+1       --x     001
+0       ---     000
+
+ex.
+chmod 666 file.name
+
+results in:
+-rw-rw-rw  file.name
+
+
+/home/jeff/mon/chmod (END)
+```
+
+(I really wish the GUN `man` page had this chart, it's the only thing I actually ever need to look up when running `chmod`)
 ## "mon" files
 
 The files inside the `mon` directory are just plain text files, written in markdown format (or not), and named logically so that they're easy to remember without having to `ls` the directory every time. The ones currently in this repo are the ones I've created so far, and you are encouraged to edit/rename/remove/add/hack them however you see fit. The point is for them to serve as useful references for __you__, and everyone is different, so do whatever works for you. This is essentially a handy way to quickly reference notes you've written for yourself.
