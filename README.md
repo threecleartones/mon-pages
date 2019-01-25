@@ -63,7 +63,8 @@ results in:
 /home/jeff/mon/chmod (END)
 ```
 
-(I really wish the GUN `man` page had this chart, it's the only thing I actually ever need to look up when running `chmod`)
+(I really wish the GNU `man` page had this chart, it's the only thing I actually ever need to look up when running `chmod`)
+
 ## "mon" files
 
 The files inside the `mon` directory are just plain text files, written in markdown format (or not), and named logically so that they're easy to remember without having to `ls` the directory every time. The ones currently in this repo are the ones I've created so far, and you are encouraged to edit/rename/remove/add/hack them however you see fit. The point is for them to serve as useful references for __you__, and everyone is different, so do whatever works for you. This is essentially a handy way to quickly reference notes you've written for yourself.
