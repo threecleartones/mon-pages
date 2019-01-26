@@ -30,7 +30,7 @@ Type the following in your terminal from anywhere:
 mon file
 ```
 
-where `file` is the name of a file inside the `mon` directory. When you're done reading, hit `q` to quit.
+where `file` is the name of a file inside the `mon` directory.
 
 Example:
 
@@ -64,6 +64,8 @@ results in:
 ```
 
 (I really wish the GNU `man` page had this chart, it's the only thing I actually ever need to look up when running `chmod`)
+
+When you're done reading, hit `q` to quit.
 
 ## "mon" files
 
